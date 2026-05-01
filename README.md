@@ -34,4 +34,7 @@ The dataset includes user session data with events such as:
 
 - ## 📁 Project Structure
 - [sql_analysis.sql](sql_analysis.sql) — SQL queries  
-- [Dashboard Image](images/dashboard.png) — dashboard preview 
+- [Dashboard Image](images/dashboard.png) — dashboard preview
+
+- ## 🔗 Live Dashboard
+[View on Tableau Public]([твій_лінк](https://public.tableau.com/views/1_17776363782090/UserConversionFunnelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))

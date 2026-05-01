@@ -37,4 +37,4 @@ The dataset includes user session data with events such as:
 - [Dashboard Image](images/dashboard.png) — dashboard preview
 
 - ## 🔗 Live Dashboard
-[View on Tableau Public]([твій_лінк](https://public.tableau.com/views/1_17776363782090/UserConversionFunnelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View on Tableau Public]((https://public.tableau.com/views/1_17776363782090/UserConversionFunnelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))

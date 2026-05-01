@@ -33,5 +33,5 @@ The dataset includes user session data with events such as:
 - Tableau (dashboard & visualization)
 
 - ## 📁 Project Structure
-- `sql_analysis.sql` — SQL queries  
-- `images/dashboard.png` — dashboard preview 
+- [sql_analysis.sql](sql_analysis.sql) — SQL queries  
+- [Dashboard Image](images/dashboard.png) — dashboard preview 
